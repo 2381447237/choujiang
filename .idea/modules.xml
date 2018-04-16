@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LuckyBoard-master.iml" filepath="$PROJECT_DIR$/LuckyBoard-master.iml" />
+      <module fileurl="file://C:\Users\liutao\Desktop\LuckyBoard-master\LuckyBoardDemo.iml" filepath="C:\Users\liutao\Desktop\LuckyBoard-master\LuckyBoardDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\liutao\Desktop\LuckyBoard-master\app\app.iml" filepath="C:\Users\liutao\Desktop\LuckyBoard-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyboard/luckyboard.iml" filepath="$PROJECT_DIR$/luckyboard/luckyboard.iml" />
+      <module fileurl="file://C:\Users\liutao\Desktop\LuckyBoard-master\luckyboard\luckyboard.iml" filepath="C:\Users\liutao\Desktop\LuckyBoard-master\luckyboard\luckyboard.iml" />
+    </modules>
+  </component>
+</project>
